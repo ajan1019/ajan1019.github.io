@@ -1,4 +1,4 @@
-# About
+# About Me
 
-NLP engineer at Zoho corporation.
+Applied NLP engineer at Zoho corporation. Amateur writer. 
 
