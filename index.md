@@ -1,1 +1,3 @@
-My personal blog on things fascinates me. What makes us human cannot make machine as human. 
+My personal blog to write about things which fascinates me. 
+
+*What makes us human cannot make machines as human.* 
