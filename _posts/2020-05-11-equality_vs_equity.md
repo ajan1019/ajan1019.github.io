@@ -18,8 +18,6 @@ The philosopher [Ronald Dworkin](http://elitovar.net/wp-content/uploads/2013/08/
 
 The first method takes environmental factors into account where the second doesn’t.
 
-![](/images/equality/image3.png)
-
 ![](/images/equality/image1.png)
 
 Source: [Link](https://www.diffen.com/difference/Equality-vs-Equity)
@@ -58,8 +56,3 @@ How the government can make equal space for everyone.
 
 Equality might look simple. But achieving it requires a willingness to recognize, creating an equal space for everyone, and the ability to judge what is right.
 
-![](/images/equality/image2.png)
-
-![](/images/equality/image4.png)
-
-Source: [Link](https://www.diffen.com/difference/Equality-vs-Equity)
