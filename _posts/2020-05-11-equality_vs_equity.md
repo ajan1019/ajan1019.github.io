@@ -1,3 +1,5 @@
+#Equality vs Equity
+
 *Equality — the state of being equal, especially in status, rights, and opportunities*
 
 *Equity — the quality of being fair and impartial*
